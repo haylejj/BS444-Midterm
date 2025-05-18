@@ -116,10 +116,9 @@ Her iki modelin performansı, her kanser türü için ayrı ayrı değerlendiril
 - **Meme & Prostat Kanseri**: LightGBM, Random Forest'a kıyasla daha iyi sonuçlar vermiştir
 
 Performans metrikleri:
-- **Confusion Matrix**
-- **Accuracy**
-- **Classification Report**
 - **Sensitivity / Specificity**
+- **Accuracy**
+
 
 ---
 
